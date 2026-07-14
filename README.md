@@ -1,6 +1,10 @@
 <h1 align="center">Open Source Computer Science & Engineering Curriculum</h1>
 
 <p align="center">
+  <img src="OICSE.png" alt="OICSE Logo" width="250">
+</p>
+
+<p align="center">
 <strong>Engineering Intelligence from First Principles</strong>
 </p>
 
@@ -8,6 +12,8 @@
 An open-source undergraduate CSE curriculum emphasizing mathematical rigor,
 algorithmic thinking, computer systems, and Artificial Intelligence through first-principles learning.
 </p>
+
+---
 
 ---
 
