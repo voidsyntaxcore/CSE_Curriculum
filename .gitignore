@@ -333,3 +333,6 @@ htmlcov/
 # Packaging lock files (optional)
 poetry.lock
 Pipfile.lock
+
+# CPH Codeforces
+.cph/
